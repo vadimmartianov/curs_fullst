@@ -1,0 +1,11 @@
+html {
+    --font-small: 1rem;
+    --font-medium: 1.5rem;
+    --font-large: 2rem;
+    --font-xlarge: 2.5rem;
+
+    --base-revah: 1em;
+    --revah-large: calc(var(--base-revah) * 1.5);
+    --revah-xlarge: calc(var(--base-revah) * 2)
+
+}
